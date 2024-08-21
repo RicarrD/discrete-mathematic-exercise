@@ -1,5 +1,3 @@
-# Ricardo dos Santos da Silva 2023100944
-# Jean Souza de Santana Nascimento Macção 2023100819
 from statistics import mode
 # Declaração de variaveis
 numerosInteiros = []
