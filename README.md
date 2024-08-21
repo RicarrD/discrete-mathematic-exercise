@@ -29,7 +29,3 @@ Coeficiente de Variação: A raiz quadrada da variância dividida pela média, e
 
 # Observações
 Caso o conjunto de números pares ou ímpares esteja vazio, as estatísticas relacionadas a esse conjunto serão tratadas como zero ou None, conforme apropriado.
-
-# Autores
-Ricardo dos Santos da Silva
-Jean Souza de Santana Nascimento Macção
